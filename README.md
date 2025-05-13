@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/dannyboscan"><img src="./devcard.png" width="356" alt="Danny Boscan's Dev Card"/></a>
 
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cn0esvc165ec73e5vjc0&team_id=cq1bsrinh2cc73e5dr10&custom_title=Danny%20Boscan%20%40%20Orion&custom_subtitle=Software%20Engineer%20Lead&show_icons=false&disable_animations=true&title_color=&text_color=&icon_color=&ring_color=&bg_color=ffffff00&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110100065%3Fv%3D4)](https://pullpo.io/products/devcard)
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cn0esvc165ec73e5vjc0&team_id=cq1bsrinh2cc73e5dr10&custom_title=Danny%20Boscan%20%40%20Orion&custom_subtitle=Software%20Engineer%20Lead&show_icons=true&disable_animations=false&title_color=04a3c0&text_color=ff354f&icon_color=964a67&ring_color=003561&bg_color=ffffff00&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110100065%3Fv%3D4)](https://pullpo.io/products/devcard)
 
 <!--
 **dannyboscan/dannyboscan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
